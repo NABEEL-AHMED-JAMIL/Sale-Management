@@ -1,0 +1,29 @@
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\bin\Release\Seal Management.exe
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\bin\Release\Seal Management.pdb
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal_Management.Item.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal_Management.Form1.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal_Management.Properties.Resources.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal Management.csproj.GenerateResource.Cache
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal Management.exe
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal Management.pdb
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal Management.csprojResolveAssemblyReference.cache
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal_Management.Parent.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal_Management.About.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Release\Seal_Management.Main.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\bin\Release\Seal Management.exe.config
+K:\Sale Management\Seal Management\bin\Release\Seal Management.exe.config
+K:\Sale Management\Seal Management\obj\x86\Release\Seal Management.exe
+K:\Sale Management\Seal Management\obj\x86\Release\Seal Management.pdb
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\bin\Release\Seal Management.exe.config
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal Management.exe
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal Management.pdb
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\bin\Release\Seal Management.exe
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\bin\Release\Seal Management.pdb
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal Management.csprojResolveAssemblyReference.cache
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal_Management.About.resources
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal_Management.Main.resources
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal_Management.Item.resources
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal_Management.Form1.resources
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal_Management.Parent.resources
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal_Management.Properties.Resources.resources
+E:\Bin\Java Bin\C# Project's ok all\Sale Management\Seal Management\obj\x86\Release\Seal Management.csproj.GenerateResource.Cache

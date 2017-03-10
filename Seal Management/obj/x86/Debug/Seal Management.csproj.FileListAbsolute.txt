@@ -1,0 +1,9 @@
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\bin\Debug\Seal Management.exe
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\bin\Debug\Seal Management.pdb
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Debug\Seal_Management.Properties.Resources.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Debug\Seal Management.csproj.GenerateResource.Cache
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Debug\Seal Management.exe
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Debug\Seal Management.pdb
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Debug\Seal_Management.Form1.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Debug\Seal_Management.Item.resources
+C:\Users\Nabeel\Desktop\VB Study\Seal Management\Seal Management\obj\x86\Debug\Sales_Management_Project.About.resources
